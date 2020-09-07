@@ -39,7 +39,11 @@ Intalling the Apache Derby database
 
 - I checked that the data was stored as intended by using the SQL scripting tool "ij"
 
-  
+![experiment2_db_contents](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-2/blob/master/Screenshots/experiment2_db_contents.png?raw=true)
+
+- Used IntelliJ to generate a ER diagram
+
+![experiment2_db_structure](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-2/blob/master/Screenshots/experiment2_db_structure.png?raw=true)
 
 
 
