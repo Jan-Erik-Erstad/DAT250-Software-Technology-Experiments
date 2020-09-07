@@ -50,3 +50,10 @@ Intalling the Apache Derby database
 ## Pending issues
 
 None
+
+## Code
+
+Code for both experiments are found in this repository
+
+- [Experiment 1](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-2/tree/master/Assignment2Experiment1)
+- [Experiment 2](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-2/tree/master/Assignment2Experiment1)
