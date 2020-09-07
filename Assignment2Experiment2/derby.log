@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 07 17:57:40 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0174-6949-83f6-000007be6d28 
+on database directory /Users/jee/Apache/db-derby-10.15.2.0-bin/bin/MyBankDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/Users/jee/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=/Users/jee/Desktop/DAT250/Assignment2Experiment2
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
