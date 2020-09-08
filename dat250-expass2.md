@@ -23,16 +23,17 @@ Intalling the Apache Derby database
 ![experiment1_db_structure](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_db_structure.png?raw=true)
 
 ##### Todo
-- Database
+Database
 ![experiment1_db_todo_tables](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_db_todo_tables.png?raw=true)
-- Running
+Running
 ![experiment1_main_run](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_main_run.png?raw=true)
-- Persistence
+Persistence
+
 ![experiment1_persistence_todos](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_persistence_todos.png?raw=true)
 ##### Persons
-- Database
+Database
 ![experiment1_db_fam_tables](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_db_fam_tables.png?raw=true)
-- Persistence
+Persistence
 ![experiment1_persistence_people](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_persistence_people.png?raw=true)
 
 
