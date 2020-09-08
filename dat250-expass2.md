@@ -16,7 +16,24 @@ Intalling the Apache Derby database
 
 - I cloned the repository and the initial code was running fine
 - I then followed the instructions to add the missing code, the tests now also ran fine.
+![experiment1_tests_passed](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_tests_passed.png?raw=true)
 - I used "ij" to check that the database stored the correct data
+
+##### ER-diagram
+![experiment1_db_structure](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_db_structure.png?raw=true)
+
+##### Todo
+- Database
+![experiment1_db_todo_tables](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_db_todo_tables.png?raw=true)
+- Running
+![experiment1_main_run](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_main_run.png?raw=true)
+- Persistence
+![experiment1_persistence_todos](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_persistence_todos.png?raw=true)
+##### Persons
+- Database
+![experiment1_db_fam_tables](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_db_fam_tables.png?raw=true)
+- Persistence
+![experiment1_persistence_people](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_persistence_people.png?raw=true)
 
 
 
