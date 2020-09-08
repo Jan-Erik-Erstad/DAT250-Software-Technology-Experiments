@@ -34,6 +34,7 @@ Persistence
 Database
 ![experiment1_db_fam_tables](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_db_fam_tables.png?raw=true)
 Persistence
+
 ![experiment1_persistence_people](https://github.com/Jan-Erik-Erstad/Software-Technology-Experiment-Assignment-2/blob/master/Screenshots/experiment1_persistence_people.png?raw=true)
 
 
