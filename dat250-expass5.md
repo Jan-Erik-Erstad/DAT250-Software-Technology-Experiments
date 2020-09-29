@@ -70,3 +70,6 @@ Since I finished the guides using a single project, the start class must be sele
 </properties>
 ```
 
+### code
+
+Code for experiment 5 can be found at [DAT250_Software-Technology-Experiment-Assignment-5](https://github.com/Jan-Erik-Erstad/DAT250_Software-Technology-Experiment-Assignment-5)
